@@ -1,6 +1,8 @@
-# rest-lic
+# rest-cmd
 
-**rest-lic** is an open-source RESTful API server built in Go, enabling users to execute Linux commands via HTTP requests. It processes commands, captures their output, and returns the results in JSON format, making it easy to integrate Linux command execution in other applications or workflows.
+**rest-cmd** is an open-source RESTful API server built in Go, enabling users to execute Linux commands via HTTP requests. It processes commands, captures their output, and returns the results in JSON format, making it easy to integrate Linux command execution in other applications or workflows.
+
+![](./vmstat.gif)
 
 ## Features
 
@@ -12,7 +14,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/rest-lic.git
+   git clone https://github.com/esperar/rest-cmd.git
    cd rest-lic
    ```
 
