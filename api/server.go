@@ -12,6 +12,8 @@ func Run() {
 	router.Use(jsonContentTypeMiddleware)
 
 	router.HandleFunc("/", OkHandler).Methods("GET")
+	// linux
+	router.HandleFunc("/linux/uptime", UptimeLinuxHandler).Methods("GET")
 
 	fmt.Println("Server Start! :3000")
 	log.Fatal(http.ListenAndServe(":3000", router))
