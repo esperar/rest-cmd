@@ -55,7 +55,12 @@ curl -X POST http://localhost:8080/exec -d '{"command": "ls -l"}' -H "Content-Ty
 
 Feel free to fork this repository, create issues, or submit pull requests! For major changes, please open an issue first to discuss your ideas.
 
+Please design the REST API rules as /{OS}/{cmd}! The directories should also follow the same structure: /{OS}/{cmd}. Additionally, please add the relevant endpoints to the README.
+
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+We welcome contributions of commands from various OS environments!
 
