@@ -57,6 +57,3 @@ Feel free to fork this repository, create issues, or submit pull requests! For m
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
-
-This setup provides basic instructions for cloning, building, running, and using `rest-lic`. Let me know if you'd like any additional details added!
