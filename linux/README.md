@@ -8,5 +8,3 @@ HTTP Method: `GET`
 - `/df`
 - `/top`
 - `/netstat`
-
-..
