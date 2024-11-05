@@ -1,7 +1,3 @@
-Here's a README for your `rest-lic` project:
-
----
-
 # rest-lic
 
 **rest-lic** is an open-source RESTful API server built in Go, enabling users to execute Linux commands via HTTP requests. It processes commands, captures their output, and returns the results in JSON format, making it easy to integrate Linux command execution in other applications or workflows.
