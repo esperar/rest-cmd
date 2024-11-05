@@ -2,7 +2,7 @@
 
 **rest-cmd** is an open-source RESTful API server built in Go, enabling users to execute Linux commands via HTTP requests. It processes commands, captures their output, and returns the results in JSON format, making it easy to integrate Linux command execution in other applications or workflows.
 
-![](./vmstat.gif)
+![vmstat.png](vmstat.png)![](./vmstat.gif)
 
 ## Features
 
